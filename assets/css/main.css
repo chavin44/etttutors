@@ -3522,7 +3522,7 @@ section, summary, time, mark, audio, video {
 		#banner .content .image img {
 			border-radius: 100%;
 			background-image: url("../../images/bannerImageLanding.jpg");
-			background-size: cover;
+			background-size: contain;
 			background-position: center;
 			background-repeat: no-repeat;
 			width: 100%;
