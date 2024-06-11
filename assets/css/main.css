@@ -3446,6 +3446,15 @@ section, summary, time, mark, audio, video {
 			box-shadow: none;
 			position: absolute;
 		}
+		#button-container {
+			width: 100%; /* Set width to full container */
+			text-align: center; /* Center-align inline elements like buttons */
+		}
+
+		#button-container .actions {
+			display: inline-block; /* Allows block elements like lists to be centered */
+			margin: 0 auto; /* Auto margins on both sides */
+		}
 
 		/* Banner */
 		#banner {
