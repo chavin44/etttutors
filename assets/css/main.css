@@ -77,7 +77,7 @@ section, summary, time, mark, audio, video {
 		}
 
 		html, body {
-			background: #304a4957;
+			background: #110101;
 		}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
